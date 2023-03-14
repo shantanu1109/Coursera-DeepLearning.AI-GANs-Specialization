@@ -52,46 +52,51 @@ flowchart TD
 ### COURSE 1
 ### Build Basic Generative Adversarial Networks (GANs)
 
-In the first course of the Machine Learning Specialization, you will:
-- Build machine learning models in Python using popular machine learning libraries NumPy and scikit-learn.
-- Build and train supervised machine learning models for prediction and binary classification tasks, including linear regression and logistic regression
+In the first course of the Generative Adversarial Networks (GANs) Specialization, you will:
+- Learn about GANs and their applications
+- Understand the intuition behind the fundamental components of GANs
+- Explore and implement multiple GAN architectures
+- Build conditional GANs capable of generating examples from determined categories
 
-* [Build Basic Generative Adversarial Networks (GANs)](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Stanford-University-Machine-Learning-Specialization/tree/main/Course-1-Supervised-Machine-Learning-Regression-and-Classification)
+* [Build Basic Generative Adversarial Networks (GANs)](https://github.com/shantanu1109/Coursera-DeepLearning.AI-GANs-Specialization/tree/main/Course-1-Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs))
 
 ### COURSE 2
 ### Build Better Generative Adversarial Networks (GANs)
 
-In the second course of the Machine Learning Specialization, you will:
-- Build and train a neural network with TensorFlow to perform multi-class classification
-- Apply best practices for machine learning development so that your models generalize to data and tasks in the real world
-- Build and use decision trees and tree ensemble methods, including random forests and boosted trees
+In the second course of the Generative Adversarial Networks (GANs) Specialization, you will:
+- Assess the challenges of evaluating GANs and compare different generative models
+- Use the Fréchet Inception Distance (FID) method to evaluate the fidelity and diversity of GANs
+- Identify sources of bias and the ways to detect it in GANs
+- Learn and implement the techniques associated with the state-of-the-art StyleGANs
 
-* [Build Better Generative Adversarial Networks (GANs)](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Stanford-University-Machine-Learning-Specialization/tree/main/Course-2-Advanced-Learning-Algorithms)
+* [Build Better Generative Adversarial Networks (GANs)](https://github.com/shantanu1109/Coursera-DeepLearning.AI-GANs-Specialization/tree/main/Course-2-Build%20Better%20Generative%20Adversarial%20Networks%20(GANs))
 
 ### COURSE 3
 ### Apply Generative Adversarial Networks (GANs)
-In the third course of the Machine Learning Specialization, you will:
-- Use unsupervised learning techniques for unsupervised learning: including clustering and anomaly detection.
-- Build recommender systems with a collaborative filtering approach and a content-based deep learning method.
-- Build a deep reinforcement learning model.
+In the third course of the Generative Adversarial Networks (GANs) Specialization, you will:
+- Explore the applications of GANs and examine them wrt data augmentation, privacy, and anonymity
+- Leverage the image-to-image translation framework and identify applications to modalities beyond images
+- Implement Pix2Pix, a paired image-to-image translation GAN, to adapt satellite images into map routes (and vice versa)
+- Compare paired image-to-image translation to unpaired image-to-image translation and identify how their key difference necessitates different GAN architectures
+- Implement CycleGAN, an unpaired image-to-image translation model, to adapt horses to zebras (and vice versa) with two GANs in one
 
-* [Apply Generative Adversarial Networks (GANs)](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Stanford-University-Machine-Learning-Specialization/tree/main/Course-3-Unsupervised-Learning-Recommenders-Reinforcement-Learning)
+* [Apply Generative Adversarial Networks (GANs)](https://github.com/shantanu1109/Coursera-DeepLearning.AI-GANs-Specialization/tree/main/Course-3-Apply%20Generative%20Adversarial%20Networks%20(GANs))
 
 -------------------------------------------------------------------------------------------------------------
 
 ## Certificate
 
-1. [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/account/accomplishments/verify/77SF7ZRAHG2S)
-2. [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/account/accomplishments/verify/EYY44BAYYAGU)
-3. [Apply Generative Adversarial Networks (GANs)](https://www.coursera.org/account/accomplishments/verify/DZGJW22HB7VZ)
-4. [Generative Adversarial Networks Specialization (Final Certificate)](https://www.coursera.org/account/accomplishments/specialization/8F3W88UHF7CL)
+1. [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/account/accomplishments/certificate/UAYE5U978RYB)
+2. [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/account/accomplishments/certificate/G633LWXC24FW)
+3. [Apply Generative Adversarial Networks (GANs)]()
+4. [Generative Adversarial Networks Specialization (Final Certificate)]()
 
 --------------------------------------------------------------------------------------------------------------
 
 ## References
-1. [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
-2. [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
-3. [Apply Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
+1. [Build Basic Generative Adversarial Networks (GANs)](https://in.coursera.org/learn/build-basic-generative-adversarial-networks-gans?specialization=generative-adversarial-networks-gans)
+2. [Build Better Generative Adversarial Networks (GANs)](https://in.coursera.org/learn/build-better-generative-adversarial-networks-gans?specialization=generative-adversarial-networks-gans)
+3. [Apply Generative Adversarial Networks (GANs)](https://in.coursera.org/learn/apply-generative-adversarial-networks-gans?specialization=generative-adversarial-networks-gans)
 
 ----------------------------------------------------------------------------------------------------------------
 
