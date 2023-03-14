@@ -1,6 +1,7 @@
 -------------------------------------------------------------------------------------------
 
-<p align="center"><img width="auto" src="![image](https://user-images.githubusercontent.com/43478328/225004454-c8c7a852-8079-49d3-9ace-08dd75c40768.png)
+<p align="center"><img width="auto" src="![image](https://user-images.githubusercontent.com/43478328/225008826-9b65f13d-96f6-4934-ab6d-bde863b9d223.png)
+")
 " /></p>
 
 -------------------------------------------------------------------------------------------
@@ -43,10 +44,10 @@ Build a comprehensive knowledge base and gain hands-on experience in GANs. Train
 
 ```mermaid
 flowchart TD
-    B["fa:fa-twitter Generative Adversarial Networks (GANs) Specialization"]
-    B-->C[fa:fa-ban Build Basic Generative Adversarial Networks (GANs)]
-    B-->D(fa:fa-spinner Build Better Generative Adversarial Networks (GANs));
-    B-->E(fa:fa-camera-retro Apply Generative Adversarial Networks (GANs))
+    B["fa:fa-twitter Generative Adversarial Networks Specialization"]
+    B-->C[fa:fa-ban Build Basic Generative Adversarial Networks]
+    B-->D(fa:fa-spinner Build Better Generative Adversarial Networks);
+    B-->E(fa:fa-camera-retro Apply Generative Adversarial Networks)
 ```
 
 ### COURSE 1
