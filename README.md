@@ -1,7 +1,6 @@
 -------------------------------------------------------------------------------------------
 
-<p align="center"><img width="auto" src="![image](https://user-images.githubusercontent.com/43478328/225008826-9b65f13d-96f6-4934-ab6d-bde863b9d223.png)
-")
+<p align="center"><img width="auto" src="https://149357281.v2.pressablecdn.com/wp-content/uploads/2021/03/BGE5k9YQ.png")
 " /></p>
 
 -------------------------------------------------------------------------------------------
