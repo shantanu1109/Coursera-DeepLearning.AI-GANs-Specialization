@@ -88,8 +88,8 @@ In the third course of the Generative Adversarial Networks (GANs) Specialization
 
 1. [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/account/accomplishments/certificate/UAYE5U978RYB)
 2. [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/account/accomplishments/certificate/G633LWXC24FW)
-3. [Apply Generative Adversarial Networks (GANs)]()
-4. [Generative Adversarial Networks Specialization (Final Certificate)]()
+3. [Apply Generative Adversarial Networks (GANs)](https://www.coursera.org/account/accomplishments/certificate/9PHMF654S4AN)
+4. [Generative Adversarial Networks Specialization (Final Certificate)](https://www.coursera.org/account/accomplishments/specialization/certificate/9T3S23Z63AD8)
 
 --------------------------------------------------------------------------------------------------------------
 
